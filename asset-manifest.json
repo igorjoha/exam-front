@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/exam-front/static/css/main.bb1cd6a4.chunk.css",
+    "main.js": "/exam-front/static/js/main.d71ab827.chunk.js",
+    "main.js.map": "/exam-front/static/js/main.d71ab827.chunk.js.map",
+    "runtime-main.js": "/exam-front/static/js/runtime-main.8101db39.js",
+    "runtime-main.js.map": "/exam-front/static/js/runtime-main.8101db39.js.map",
+    "static/js/2.493e2401.chunk.js": "/exam-front/static/js/2.493e2401.chunk.js",
+    "static/js/2.493e2401.chunk.js.map": "/exam-front/static/js/2.493e2401.chunk.js.map",
+    "index.html": "/exam-front/index.html",
+    "precache-manifest.a067f65936906149c653f682b1186dde.js": "/exam-front/precache-manifest.a067f65936906149c653f682b1186dde.js",
+    "service-worker.js": "/exam-front/service-worker.js",
+    "static/css/main.bb1cd6a4.chunk.css.map": "/exam-front/static/css/main.bb1cd6a4.chunk.css.map",
+    "static/js/2.493e2401.chunk.js.LICENSE.txt": "/exam-front/static/js/2.493e2401.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8101db39.js",
+    "static/js/2.493e2401.chunk.js",
+    "static/css/main.bb1cd6a4.chunk.css",
+    "static/js/main.d71ab827.chunk.js"
+  ]
+}
